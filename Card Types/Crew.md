@@ -1,0 +1,1 @@
+Crew cards represent your 'pit crew', the team of people who help you maintain your mech. Each Crewmember has special abilities that help you take your mech to victory!

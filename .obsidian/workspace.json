@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Play Area.md",
+                "file": "Card Types/Part.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Card Types/Part.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Card Types/Part.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Card Types/Part.md"
+              }
             }
           }
         ]
@@ -157,13 +161,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7bfae3b9c9a6f5f4",
+  "active": "27e30063838f726d",
   "lastOpenFiles": [
-    "git.md",
-    "Play Area.md",
-    "Card Types/Part.md",
-    "Card Types",
     "Card Types/Crew.md",
+    "Card Types/Part.md",
+    "Play Area.md",
+    "git.md",
+    "Card Types",
     "Welcome.md"
   ]
 }
