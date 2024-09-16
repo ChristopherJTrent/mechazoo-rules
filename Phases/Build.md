@@ -1,1 +1,1 @@
-At the beginning of the build phase, each player receives the amount of scrap noted on their [[Mech]] card. The active player may place a [[part]] card onto the field, paying its scrap cost. Then the Non-Active Player 
+At the beginning of the build phase, each player receives the amount of scrap noted on their [[Mech]] card. The active player may place a [[part]] card onto the field, paying its scrap cost. Then the Non-Active Player takes a turn in the same manner. The players continue to alternate taking turns until neither player chooses to place a part onto the field.

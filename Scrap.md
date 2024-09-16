@@ -1,0 +1,1 @@
+Scrap is the resource used to play cards from your hand onto your mech. 

@@ -1,1 +1,1 @@
-At the beginning of the Maintenance phase, each player chooses one of their [[Part|parts]], that part's durability is restored to its maximum. 
+At the beginning of the Maintenance phase, each player chooses one of their [[Part|parts]], that part's durability is restored to its maximum. Once the heap is empty and no player chooses to place anything on the heap, each player draws a number of cards equal to 3 plus the number of Scrap they have left over from their previous build phase. This action ends the Maintenance phase.

@@ -1,0 +1,1 @@
+Your deck must contain exactly 45 cards {Editor's Note: Dammit Will, this was supposed to be 42} plus one [[Mech]]. Unless a card specifies otherwise with [[Anatomy of a card#Limit|Limit]], you may play a maximum of 4 copies of it in tournament play. 
