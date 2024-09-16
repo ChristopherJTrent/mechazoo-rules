@@ -1,0 +1,1 @@
+The turn starts with the [[Maintenance]] phase, followed by the [[Build]] Phase, followed by the [[Battle]] Phase, and then repeats, with the Active Player swapping.

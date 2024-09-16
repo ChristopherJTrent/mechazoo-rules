@@ -13,16 +13,53 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Card Types/Part.md",
+                "file": "Phases/Build.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64aee2278c2b1480",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anatomy of a card.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "400e1fbebe8384fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Heap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "917b968ac538ee75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phases/Maintenance.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "8b85d8c52c8b3f25",
+        "id": "fee9cbb9072271a9",
         "type": "tabs",
         "children": [
           {
@@ -99,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Card Types/Part.md",
+                "file": "Anatomy of a card.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Card Types/Part.md",
+                "file": "Anatomy of a card.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Card Types/Part.md"
+                "file": "Anatomy of a card.md"
               }
             }
           }
@@ -161,11 +198,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27e30063838f726d",
+  "active": "64aee2278c2b1480",
   "lastOpenFiles": [
-    "Card Types/Crew.md",
-    "Card Types/Part.md",
+    "Phases/Build.md",
+    "Anatomy of a card.md",
+    "Phases/Battle.md",
+    "The Heap.md",
+    "Phases/Maintenance.md",
+    "Card Types/Action.md",
+    "Turn Structure.md",
+    "Phases",
+    "Card Types/Mech.md",
     "Play Area.md",
+    "Card Types/Part.md",
+    "Card Types/Crew.md",
     "git.md",
     "Card Types",
     "Welcome.md"

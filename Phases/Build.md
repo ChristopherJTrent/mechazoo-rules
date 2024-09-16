@@ -1,0 +1,1 @@
+At the beginning of the build phase, each player receives the amount of scrap noted on their [[Mech]] card. The active player may place a [[part]] card onto the field, paying its scrap cost. Then the Non-Active Player 

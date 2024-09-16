@@ -1,0 +1,1 @@
+The heap is where cards and abilities that have been played but that haven't taken effect are placed. Cards and abilities that are placed onto the heap take effect in the opposite order they were added. (First-in, Last-out)

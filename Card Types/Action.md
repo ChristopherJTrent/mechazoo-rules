@@ -1,0 +1,2 @@
+Action cards represent a special action you can take during your turn. An action card's type line will have the name(s) of one or more phase(s), those phases are the only time you can play that action. An action card may also have additional timing restrictions, which will be inside its text.
+To play an action card, place it into the Junk Pile and pay its cost. Once you have done this, place it onto [[The Heap]]. 

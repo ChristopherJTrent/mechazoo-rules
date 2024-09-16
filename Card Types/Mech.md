@@ -1,0 +1,1 @@
+Mech cards represent your mech's core structure. Each mech starts with 10 Integrity, when your mech reaches 0 Integrity, you lose the game. 

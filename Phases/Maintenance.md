@@ -1,0 +1,1 @@
+At the beginning of the Maintenance phase, each player chooses one of their [[Part|parts]], that part's durability is restored to its maximum. 

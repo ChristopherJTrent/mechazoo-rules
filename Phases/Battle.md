@@ -1,0 +1,2 @@
+At the beginning of the battle phase, the Active Player selects a weapon part they control, and uses one of its abilities to attack a [[Part]] on the opponent's mech. This attack goes onto [[The Heap]]. 
+Once that attack takes effect, the Non-Active Player takes a turn in the same manner, and players alternate until neither player elects to make an attack. 
