@@ -1,0 +1,2 @@
+### Piercing
+If this weapon deals enough damage to an opposing part to destroy it, you may deal the remaining damage to another opposing part, or deal 1 point of integrity damage to your opponent's mech if they control no other parts to which you could deal damage.

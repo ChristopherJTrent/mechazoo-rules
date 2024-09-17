@@ -17,7 +17,7 @@ This field tells you how much energy from your mech core this card costs to acti
 This field tells you how much Durability this card has when it is played. (Hint: it's sized so you can place a single six-sided die on it to keep track.)
 Cards that don't have durability (e.g. Crew and Actions) don't have this field at all.
 
-### Typeline
+### Type line
 This field contains the types of the card. Some examples of lines you may see here are:
 * Scrapper - Energy Weapon: This is a weapon part that can only be attached to mechs with the "Scrapper" keyword, and when it attacks, it deals Energy damage, which is referenced by some card effects.
 * Assistant: This is a special kind of crew card of which you can only have one in play at a time. If you play another crew card with the Assistant type, your existing assistant will betray you and be sent to the junk pile.
